@@ -1,2 +1,2 @@
 # tuto
-Training on the use of github
+Hmm, Training on the use of gifthub. Adding some text
